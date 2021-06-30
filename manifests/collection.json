@@ -1,0 +1,13 @@
+{
+  "id" : "https://akatoms.github.io/Berner_Baer_eilt_Genf_zu_Hilfe/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in akatoms/Berner_Baer_eilt_Genf_zu_Hilfe project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://akatoms.github.io/Berner_Baer_eilt_Genf_zu_Hilfe/manifests/Flugschrift.json",
+    "label" : "Ein hüpsch new Lied, und ware Gschicht"
+  } ]
+}
