@@ -1,0 +1,498 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://akatoms.github.io/Berner_Baer_eilt_Genf_zu_Hilfe/manifests/Flugschrift.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ein hüpsch new Lied, und ware Gschicht",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Liedflugschrift zum Konflikt zwischen Savoyen und der Stadt Genf und dem Eingreifen der Stadt Bern",
+    "@language" : "de"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://a3c6749c-23f3-467a-8767-29bece54eb56",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://40d97f45-dd4c-4b69-8694-2bdb4f21aea3",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 0,
+      "width" : 0,
+      "images" : [ ],
+      "related" : ""
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047959"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047959",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047959",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047961"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047961",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047961",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047961",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[2]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047961",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047962"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047962",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047962",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047962",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[3]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047962",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047963"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047963",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047963",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047963",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[4]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047963",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047964"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047964",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047964",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047964",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[5]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047964",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047965"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047965",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047965",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047965",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[6]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047965",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047966"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047966",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047966",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047966",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[7]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047966",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047967"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047967",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047967",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047967",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[8]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047967",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047968"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047968",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047968",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047968",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[9]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047968",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047969"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047969",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047969",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047969",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[10]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047969",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047970"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047970",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047970",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047970",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[11]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047970",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047971"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047971",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047971",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047971",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[12]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047971",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047972"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047972",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047972",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047972",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[13]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047972",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047973"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047973",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047973",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047973",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[14]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047973",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1783,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047974"
+          },
+          "format" : "image/jpeg",
+          "height" : 1589,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047974",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047974",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047974",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[15]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047974",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    }, {
+      "height" : 1784,
+      "width" : 1122,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047975"
+          },
+          "format" : "image/jpeg",
+          "height" : 1590,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/bes_1/download/webcache/1000/2047975",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047975",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/annotation/2047975",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[16]",
+      "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047975",
+      "@type" : "sc:Canvas",
+      "related" : {
+        "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/manifest",
+        "label" : "Ein hüpsch new Lied, und ware Gschicht, wie frei der Bär den Krieg hat gricht, der zwischen Genff und Saffoy was, ir Bischoff hat gebritlet das [...]",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "https://www.e-rara.ch/bes_1/i3f/v20/2047957/canvas/2047959"
+  }
+}
